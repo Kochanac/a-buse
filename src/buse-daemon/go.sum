@@ -1,0 +1,4 @@
+github.com/asch/buse/lib/go/buse v0.0.0-20220419090641-f12ccb1d15a9 h1:suBdWCu2BxNxC6YETUuFnYanAnffGtBBQ060v3rO4/A=
+github.com/asch/buse/lib/go/buse v0.0.0-20220419090641-f12ccb1d15a9/go.mod h1:dxWl+7wjthiJ2JB8vNGTMy1FW7W8o2khYiGnYitxgms=
+golang.org/x/sys v0.5.0 h1:MUK/U/4lj1t1oPg0HfuXDN/Z1wv31ZJ/YcPiGccS4DU=
+golang.org/x/sys v0.5.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
